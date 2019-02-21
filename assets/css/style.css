@@ -1,0 +1,38 @@
+body {
+    background-image: url(../images/background-img-2452-1142.jpg);
+    background-size: 1500px 700px;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    font-size: 24pt;
+    padding: 10px 24px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 2em;
+}
+.questions {
+    line-height: 80%;
+}
+#mainSection {
+    display: inline-block;
+    background-color:white;
+    height: 1000px;
+    width: 900px;
+    opacity: 0.5;
+}
+
+h1 {
+    font-family: 'Seymour One', sans-serif;
+    text-align: center;
+    font-weight: 200;
+    color: black;
+    letter-spacing: 4px;  
+}
+
